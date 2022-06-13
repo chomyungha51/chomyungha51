@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 -->
 
 # MyunghaCho : Frontend Developer
----
 
 프론트 다음은 백이다🔥🔥🔥
 
----
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chomyungha51&theme=highcontrast&show_icons=true&)
 
 ## Stack
----
 - React
 - Javascript, Typescript
 - C, C++, C#
