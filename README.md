@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 - Solidity, Rust
 - GraphQL
 
+```
 <a href="https://velog.io/@myungha_cho">
-  
-    <img 
+  <img 
         src="http://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+```
