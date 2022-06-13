@@ -14,25 +14,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# MyunghaCho : Frontend Developer
+<h1> MyunghaCho : Frontend Developer</h1>
 
 프론트 다음은 백이다🔥🔥🔥
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chomyungha51&theme=highcontrast&show_icons=true&)
-
-## Stack
-- React
-- Javascript, Typescript
-- C, C++, C#
-- Java
-- Python
-- Solidity, Rust
-- GraphQL
-
-```
+<br>
 <a href="https://velog.io/@myungha_cho">
-  <img 
-        src="http://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=FFFFFF"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
-```
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chomyungha51&theme=highcontrast&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chomyungha51&theme=highcontrast&show_icons=true)](https://github.com/chomyungha51/github-readme-stats)
+
+
+<h1> Stack </h1>
+- React
+<br>
+- Javascript, Typescript
+<br>
+- C, C++, C#
+<br>
+- Java
+<br>
+- Python
+<br>
+- Solidity, Rust
+<br>
+- GraphQL
+<br >
+
+
