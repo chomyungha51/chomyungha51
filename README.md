@@ -1,23 +1,12 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
-
-<h1> 👋 안녕하세요, 풀스택 개발자 조명하입니다!!! </h1>
-<p> 👋 Hello, I am a fullstack developer, MyungHa Cho!!! </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 📫 How to reach me: chomyungha@gmail.com
 - ⚡ Fun fact: Triple Major (국어국문학과, 소프트웨어학과, 인공지능융합학과)
   
-<br>
-<a href="https://velog.io/@myungha_cho">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-</a>
+# 👀 Projects
+**💌X-Letter**(https://www.xletter.io/)
+**🗣️BXG in AWS**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chomyungha51&theme=highcontrast&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chomyungha51&theme=highcontrast&show_icons=true)](https://github.com/chomyungha51/github-readme-stats)
-
-
-### 🦾 Skills
+# 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -41,8 +30,3 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-
-### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
-[![Solved.ac
-프
