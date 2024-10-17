@@ -8,3 +8,10 @@
 - BackEnd : Typescript, Pyton, Java/Spring
 - DB : MySQL, PorstgreSQL, MongoDB
 - Cloud : AWS, Azure, Snowflake
+
+# History
+- SKKU Korean Language & Literature, Computer Science, Artificial Intelligence (2018~2024)
+- SKKRYPTO (2019~2021)
+- Vetching (2021~2022)
+- 우리FISA 2기 클라우드 서비스 개발(2023~2024)
+- Comtec System (2024~)
